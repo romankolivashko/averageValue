@@ -1,13 +1,11 @@
-# _{Application Name}_
+# _AverageValue_
 
-#### _{Brief description of application}_
+#### _This function finds the average value in an array of numbers_
 
 #### By _**Roman Kolivashko**_
 
 ## Technologies Used
 
-* _HTML_
-* _CSS_
 * _JavaScript_
 
 ## Description
